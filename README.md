@@ -1,2 +1,2 @@
-# c-docker-env
+# cproject
 docker environment for c program
